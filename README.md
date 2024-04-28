@@ -1,5 +1,5 @@
 <h1 align="center">
-    RGIPT CAMPUS MANAGEMENT SYSTEM
+    RGIPT CAMPUS MANAGEMENT HELPDESK
 </h1>
 
 <h3 align="center">
