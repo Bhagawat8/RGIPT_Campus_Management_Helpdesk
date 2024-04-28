@@ -31,7 +31,7 @@ The RGIPT campus Management System is a web-based application built using the ME
 
 ## Technologies Used
 
-- Frontend: React.js, Material UI
+- Frontend: React.js, CSS
 - Backend: Node.js, Express.js
 - Database: MongoDB
 
